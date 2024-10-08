@@ -1,2 +1,2 @@
 
-([https://i.imgur.com/qpSLLKi.gif] "Top image")
+![Header Image](https://i.imgur.com/qpSLLKi.gif)
