@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jamie</h1>
 <h3 align="center">I love Gilbert</h3>
 
-- 🔭 I’m currently working on [Gilbert website](gilbertweb.site)
+- 🔭 I’m currently working on [Gilbert website](https://gilbertweb.site)
 
 - 🌱 I’m currently learning **Flask web development**
 
